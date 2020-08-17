@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyB_SxZUp9LGV96ysQXxs7N4zPDaBC0jrXs",
-    authDomain: "first-firebase-36310.firebaseapp.com",
-    databaseURL: "https://first-firebase-36310.firebaseio.com",
-    projectId: "first-firebase-36310",
-    storageBucket: "first-firebase-36310.appspot.com",
-    messagingSenderId: "1052897980630",
-    appId: "1:1052897980630:web:2e09d9210141a283601977",
-    measurementId: "G-84K388XKJH"
+    apiKey: "//Add your firebase app's api key",
+    authDomain: "////Add your firebase app's domain",
+    databaseURL: "//Add your firebase app's url",
+    projectId: "//Add your firebase app's project id",
+    storageBucket: "//Add your firebase app's storage bucket",
+    messagingSenderId: "//Add your firebase app's sender id",
+    appId: "//Add your firebase app's appId",
+    measurementId: "////Add your firebase app's measurementId"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
